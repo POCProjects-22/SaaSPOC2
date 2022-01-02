@@ -1,3 +1,5 @@
+#Create a database POCMaster_db
+
 #set password in appsetting.json
 --Migration database
 #update-database -Context MasterDBContext  

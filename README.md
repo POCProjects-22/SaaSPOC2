@@ -1,6 +1,6 @@
-set password in appsetting.json
+#set password in appsetting.json
 --Migration database
-update-database -Context MasterDBContext  
+#update-database -Context MasterDBContext  
 
 
 --test
